@@ -1,4 +1,4 @@
-:local(.BreadBottom) {
+.BreadBottom {
     height: 13%;
     width: 80%;
     background: linear-gradient(#F08E4A, #e27b36);
@@ -111,3 +111,6 @@
     background: linear-gradient(#bf3813, #c45e38);
     margin: 2% auto;
 }
+
+
+
